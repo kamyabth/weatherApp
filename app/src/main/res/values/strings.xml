@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">weatherapplication</string>
+    <string name="location">location</string>
+    <string name="updated_at">updated at</string>
+    <string name="clear_sky">clear sky</string>
+    <string name="_24_c">24°C</string>
+    <string name="min_temp">min temp</string>
+    <string name="mittemp">Min_temp</string>
+    <string name="max_temp">Max temp</string>
+    <string name="sunrice">sunrice</string>
+    <string name="_5_30am">5:30am</string>
+    <string name="sunrise">sunrise\n</string>
+    <string name="_6_30">6:30</string>
+    <string name="sunset">sunset</string>
+    <string name="windy">windy</string>
+    <string name="todo">TODO</string>
+    <string name="wind">wind</string>
+    <string name="pressure">pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="check_internet_connection">check your internet connection</string>
+    <string name="info">info</string>
+    <string name="todoo">TODO</string>
+</resources>
